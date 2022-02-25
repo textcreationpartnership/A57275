@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loyalty recommended in a sermon preached before the worshipful society of merchants adventures at St. Stephen's Church in Bristol, November 10th, 1683 / by John Rainstorp ...</title>
+            <author>Rainstorp, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57275</idno>
+            <idno type="STC">Wing R145</idno>
+            <idno type="STC">ESTC R32183</idno>
+            <idno type="EEBO-CITATION">12354095</idno>
+            <idno type="OCLC">ocm 12354095</idno>
+            <idno type="VID">60083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60083)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1025:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loyalty recommended in a sermon preached before the worshipful society of merchants adventures at St. Stephen's Church in Bristol, November 10th, 1683 / by John Rainstorp ...</title>
+                  <author>Rainstorp, John.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Wallis for Joanna Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allegiance --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:60083:1"/>
+               <pb facs="tcp:60083:1" rendition="simple:additions"/>
+               <hi>Loyalty Recommended:</hi>
+            </p>
+            <p>IN A SERMON Preached before the Worſhipful Society OF MERCHANTS ADVENTURERS.</p>
+            <p>AT St. <hi>Stephen</hi>'s Church in <hi>BRISTOL, November,</hi> 10th. 1683.</p>
+            <p>BY <hi>JOHN RAINSTORP,</hi> M. A. And of the City Free-School.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Wallis,</hi> for <hi>Joanna Brome,</hi> at the Gun in S. <hi>Paul</hi>'s Church-Yard. 1684.</p>
+            <pb facs="tcp:60083:2" rendition="simple:additions"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:60083:2"/>
+            <head>TO THE Maſter; Wardens; Aſſiſtants; and the Commonalty of the Worſhipful Soci<g ref="char:EOLhyphen"/>ety of Merchants Adventurers in <hi>Briſtol.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>'TIS notoriouſly ſtoryed of <hi>Demoſthenes,</hi> That being to make an Oration before King <hi>Philip,</hi> he ſtumbled in the very threſhold<g ref="char:punc">▪</g>
+            </p>
+            <p>Not that I put you in the Scale with the King; or my ſelf with the Orator: but that which ſo much diſheartened him, animates me, <hi>(viz.)</hi> Your Greatneſs. As on the one hand I have not run out of the Pulpit into the Sea, pretending Directions, (or any thing like them) towards Navigation; but only that which is always neceſſary, true ſtanch Loyalty, and that which holds (at leaſt ana<g ref="char:EOLhyphen"/>logically) among all creatures.</p>
+            <p>
+               <pb facs="tcp:60083:3"/>
+So on the other I heartily deſire your fa<g ref="char:EOLhyphen"/>vourable Patronage to this honeſt deſign, of ſpreading Loyalty as far as the Name of Piety may reach.</p>
+            <p>I muſt Confeſs ſelf-intereſt prompts this deſire; for thus I ſhall be ſecure from the value of thoſe Cenſures, which (like a fog) may ariſe from the lower and ever prejudicial ſort of People: but this, I hope, may be as voluntary in You, ſuch eminent inſtances of Loyalty, as advantageous to me, who preſſed the Neceſſity of a <hi>Plus Ultra.</hi>
+            </p>
+            <p>I avoid Tediouſneſs, being in few words<g ref="char:punc">▪</g>
+            </p>
+            <closer>
+               <salute>Honoured Gentlemen,</salute> 
+               <signed>
+                  <hi>Your Faithful Obedient Servant,</hi> John Rainſtorp.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:60083:3"/>
+            <head>A SERMON On </head>
+            <epigraph>
+               <q>
+                  <bibl>2 <hi>SAM.</hi> XV. 21.</bibl> 
+                  <p>And <hi>Ittai</hi> anſwered the King, and ſaid, As the Lord liveth, and as my Lord the King liveth, ſurely in what place my Lord the King ſhall be, whether in death, or life, even there alſo will thy Servant be.</p>
+               </q>
+            </epigraph>
+            <p>WHat News is this ſo ſtrongly rumour'd? What Tydings has reached our Ears from <hi>Jeruſalem?</hi>
+            </p>
+            <p>
+               <hi>Abſolon</hi> would fain be King.</p>
+            <p>But may not this be unworthily put upon him by men of envious and malevolent Spirits? May not this be a politick way for theſe to inſinuate into <hi>David</hi>'s favour, by raiſing clouds of jealouſies, where there is no occaſion of fear? May not this in probability raiſe them much higher, if they can have but <hi>Abſolon</hi>'s Neck for their Foot-ſtool?</p>
+            <p>
+               <pb n="2" facs="tcp:60083:4"/>
+No: you will imagine him to be a perſon of honour, and therefore to be credited in his ex<g ref="char:EOLhyphen"/>preſſions, <hi>Oh that I were made Judge in the Land?</hi> 
+               <note place="margin">
+                  <hi>Verſ.</hi> 4</note>
+            </p>
+            <p>And what ſhould hinder? was he not a man of beauty, and without blemiſh? ſo we are told. <note place="margin">2 <hi>Sam.</hi> xiv. 25.</note> Was he not a man of univerſally juſt inclination? ſo he himſelf tells us in this Chapter. Was he <note place="margin">
+                  <hi>Verſ.</hi> 4.</note> not a man of marvellous courteſy to impart kiſſes to the very ſcum of his adorers? Crafty ſalutes, and popular pretenſes of juſtice!</p>
+            <p>But let our thoughts be kind beyond his merits, and ſuppoſe him a man without exceptions: 'tis great for any one, but what claim or title to the Crown? <hi>David</hi> was ſtill living: were he once fallen, the way to the Throne might be clear, and the Trumpet might proclaim <hi>Abſoloms</hi> Tri<g ref="char:EOLhyphen"/>umphant introduction to Monarchy.</p>
+            <p>But the Kings Life puts a very great obſtructi<g ref="char:EOLhyphen"/>on in the way, and hinders the young man from mounting the region of his itching Ambition.</p>
+            <p>Some courſe therefore muſt be thought of to remove theſe unpleaſant rubbs. This as uſually, was endeavoured by calumniating the Govern<g ref="char:EOLhyphen"/>ment, there is no man deputed of the King to hear thee. He is grown careleſs in the me<g ref="char:EOLhyphen"/>thods <note place="margin">
+                  <hi>Verſ.</hi> 3.</note> of Juiſtce, and taken off from theſe things of noble concernments by things of much inferior
+<pb n="3" facs="tcp:60083:4"/>
+moment. <hi>Joſephus</hi> adds that he told the people <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>(i. e.)</hi> That his Father had evill Councellours.</p>
+            <p>But if I were King, my mouth ſhould be ready to pronounce, as ſoon as yours could demand Juſtice.</p>
+            <p>So baſe and fawning are the ſpirits of thoſe that would raiſe themſelves on the ſtumps of Po<g ref="char:EOLhyphen"/>pularity.</p>
+            <p>And by this means he ſtole the hearts of the men of <hi>Iſrael: (Men of ſimplicity)</hi> ſaith the holy Ghoſt. <note place="margin">
+                  <hi>Verſ.</hi> 11.</note>
+            </p>
+            <p>That which pleaſeth the Eye, or Ear draws the Rabble: and ſmooth ſpeech is more regarded then wholeſome Laws.</p>
+            <p>And now commenceth ſorrow and confuſion. <hi>David</hi> thinks himſelf no longer ſafe in <hi>Jeruſalem</hi> (for fear will not ſuffer any to be ſecure) he commands his Guards, and retinue to make ready, and ſo takes his farewell of the City. But find<g ref="char:EOLhyphen"/>ing a ſtranger, his goodneſs was willing to diſ<g ref="char:EOLhyphen"/>miſs him, and free him from the ill conſequence of Rebellion, to which himſelf is expoſed, <hi>Return and take back thy Brethren, mercy and truth be with thee. And</hi> Ittai <hi>Anſwered the King,</hi> &amp;c.</p>
+            <p>Before I come to the ſubſtance of the words, I am willing to take notice of the Author of them, <hi>Ittai</hi> a ſtranger: A very eminent one.</p>
+            <p>
+               <pb n="4" facs="tcp:60083:5"/>
+The great deſign of ſtrangers, is to view the pleaſantneſs of another Land, the temper and manners of the people, the Laws and Govern<g ref="char:EOLhyphen"/>ment of a countrey; and after the diverſion of a different climate, to return back to their own native air and ſoyle.</p>
+            <p>Or to diſpatch ſome buſineſs of great weight, which without traveling might admit of neglect or controverſy: and thoſe grand importances by this means are often ſettled, which by reaſon of remoteneſs of place, and diſtance of perſons have lain confuſed.</p>
+            <p>Or elſe to ſpy the condition of a countrey what Poſture 'tis in. What places are leaſt fortified, and lye moſt open to the enemy; what heart the countrey is in for proviſions, and how the wills of the inhabitants are inclined to Peace or War. This we find ſurmiſed by <hi>Joſeph</hi> to his Brethren. <hi>Ye are ſpyes and to ſee the naked<g ref="char:EOLhyphen"/>neſs</hi> 
+               <note place="margin">
+                  <hi>Gen.</hi> xlii. 9.</note> 
+               <hi>of the Land ye are come.</hi> And to what pur<g ref="char:EOLhyphen"/>poſe elſe is <hi>Abſalom</hi> recorded, to have ſent ſpyes throughout all the tribes of <hi>Iſrael?</hi> 
+               <note place="margin">
+                  <hi>Verſ.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>But for ſtrangers to move out of their own ſphere, and concern themſelves with ſtate affairs, things which belong unto the King is very rare<hi>:</hi> accounting it needleſs for them to intereſt them<g ref="char:EOLhyphen"/>ſelves, as doubtfull of ſucceſs; or unprofitable ſuppoſing it, but certainly dangerous, if a diſ<g ref="char:EOLhyphen"/>affected faction ſhould prevail.</p>
+            <p>
+               <pb n="5" facs="tcp:60083:5"/>
+But our great Heroe ſtumbles at none of theſe difficulties; he conſults not the ſecurity of his own Perſon. He is ſo far from counting <hi>David</hi>'s Re<g ref="char:EOLhyphen"/>tinue unneceſſary, that he forceth himſelf as a voluntary ſupply. He alledgeth not the hazard of loſing his eſtate, but boldly vindicateth the neceſſi<g ref="char:EOLhyphen"/>ty of ſupporting the King's.</p>
+            <p>He tells not this or that Peer, or this or that City, that he will ſtand by them with his Life and Fortune; but aſſureth the King of his ſturdy reſolution, tho' danger openeth 'its mouth in the blackeſt and largeſt dimenſions.</p>
+            <p>How worthy ſuch a Daring and Loyal Champion againſt the degenerating Imps of Rebellion, that the King ſhould enrich him with great riches, and make his Fathers houſe free in <hi>Iſrael?</hi>
+            </p>
+            <p>And ſo I take leave of the perſon, and come to the ſubſtance of the words. <hi>As the Lord lives,</hi> &amp;c. From which words I lay before you theſe two Pro<g ref="char:EOLhyphen"/>poſitions.</p>
+            <p>Firſt, That Kings may be in danger.</p>
+            <p>Secondly, 'Tis the duty of all Subjects to ſtand by them.</p>
+            <p>Firſt, <hi>Ad generum Cereris ſine caede &amp; ſanguine pauci Deſcendunt Reges, i. e.</hi> that few Kings dye a natural Death, ſo ſaith the Satyriſt. It had been <note place="margin">Juvenal.</note> happy if that obſervation had not lived beyond the Age wherein 'twas conceiv'd, at leaſt that it
+<pb n="6" facs="tcp:60083:6"/>
+might have been confin'd to the practice of Hea<g ref="char:EOLhyphen"/>thens; or that the damnable Doctrine of King-Killing had not been diſpers'd, as well as the <hi>Jews</hi> themſelves; but this is rather to be wiſhed, than ex<g ref="char:EOLhyphen"/>pected; the Contagion is ran too far over <hi>Chriſten<g ref="char:EOLhyphen"/>dome,</hi> ſcorning to be ſhut up.</p>
+            <p>Men have villanouſly ran at the breaſts and throats of Princes, and with no leſs mettal ſtruck of Nobles, then that proud <hi>Roman</hi> did the heads of lofty Poppyes.</p>
+            <p>This unhappy Kingdom hath not had the leaſt ſhare of Experiance. 48 hath been late and diſmall enough; but as if that had been a trifle, as bloody malice hath been ſince repeated, and drove on with greater fury: the Son muſt be ſplit by pre<g ref="char:EOLhyphen"/>tences of Friendſhip: then let him prophecy who ſmote him. Then dogedly condemned to neceſ<g ref="char:EOLhyphen"/>ſity, or ſell a birthright for freſh ſupplies: then ſuddenly ſent to Heaven without ſo much as the pretence of an <hi>High Court of Juſtice:</hi> Such a thirſt after more martyrs blood, as if what had been ſpilt already might not worthily create more Faſts in the Church of <hi>England;</hi> then there are Feſtivals in the Church of <hi>Rome.</hi>
+            </p>
+            <p>The thing is too plain being matter of fact; let us inquire into the Reaſon, why the perſons of Kings ſhould be ſo miſerably expos'd. Then the Methods which evil men uſe to compaſs worſe de<g ref="char:EOLhyphen"/>ſigns:
+<pb n="7" facs="tcp:60083:6"/>
+as for the end of them, 'tis ſo obvious and ſo manifeſt to all of our Eyes, that I ſhall paſs it. The reaſons are.</p>
+            <p>Firſt, their Dignity and this raiſeth Envy.</p>
+            <p>It had pleaſed God Almighty, for the harmony of the univerſe, to make ſeveral orders and diſtincti<g ref="char:EOLhyphen"/>ons of men, as he hath vouchſafed to ſome more eminent parts and larger endowments, than to others: whence it comes to paſs that ſome are bet<g ref="char:EOLhyphen"/>ter qualified for the managing of peculiar pro<g ref="char:EOLhyphen"/>vinces: the hand that is expert at the ſpade is by no means fit to ſway the Scepter. Nor the back which is clad with the courſeſt weeds to be enwrap<g ref="char:EOLhyphen"/>ped with Princely Robes.</p>
+            <p>When <hi>Perſians</hi> crown'd their Slaves, 'twas but a mock ſolemnity to their enſuing ſlaughter, and when ſuch have got the crown by force, it hath been as far from the intention of nature, as the birth of monſters, which uſually go out of the world in as little eſteem as they came in.</p>
+            <p>Not that God hath by any means allotted an equality in the World, but according to the model of Heaven <hi>(Where he is Sole Monarch)</hi> he hath appointed a ſubordinate Government upon Earth, and tho' inferiour to his, he hath commanded that to be obey'd in the height, and made obedience a neceſſary part of mens Religion.</p>
+            <p>This name (we know) the Rebell uſes as a
+<pb n="8" facs="tcp:60083:7"/>
+refuge (I will not call it a Sanctuary) of all his underhand wiles and ſtratagems: Ask him what makes him forſake the Church, he can tell you nothing but Religion: ask him what makes him rail againſt, and murther <hi>Archbiſhops,</hi> and devote other Orders to a wretched doom: 'tis the ſame Religion.</p>
+            <p>Ask him what makes him to take up Arms a<g ref="char:EOLhyphen"/>gainſt his lawful King, and appoint the Meeting fields as a ſeat of that War, which the Goſpel hath forbid: 'tis the ſame Religion. In a word, ask him what makes him libel, encourage and contrive a general deſolation: 'tis the ſame Religion, never is Religion ſo rack'd and tormented, as when General of the Rebels Army.</p>
+            <p>But this is only noiſe: that which ſticks in their maws, is the dignity of Superiors: God's diſpen<g ref="char:EOLhyphen"/>ſations ſeem too ragged for them, and therefore they would file them off: they think themſelves (let Heaven meaſure as it will) men of as great knowledge and deſerts, and as fit for badges of honour as others: but if Providence be ignorant and partial, they will be wiſe and juſt to them<g ref="char:EOLhyphen"/>ſelves, and carve themſelves out according to the value of their own merits. And by this means comes Kings to lye obnoxious to the envy, and ſometimes the mercy of thoſe Caytiffs that would ſtrive to invade Heaven, were it not out of their
+<pb n="9" facs="tcp:60083:7"/>
+reach, and fly at his face by whom Kings Reign.</p>
+            <p>Secondly, Authority, and this raiſeth ſtubborn<g ref="char:EOLhyphen"/>neſs. This, Heaven hath not only ſtampt upon their dignity, but engraven it ſo deep that no tract of time is able to wear it out. His Vicege<g ref="char:EOLhyphen"/>rents he makes not only great but formidable, not only to be gazed on, and admired for their glory, but to be revered and dreaded for their power.</p>
+            <p>As the laws and badges of honour in other King<g ref="char:EOLhyphen"/>doms, were not for a meer ſhew, but the Terror of Malefactors, ſo among us they are no leſs ſig<g ref="char:EOLhyphen"/>nificant.</p>
+            <p>This law bindeth every Subject to duty, and upon the failure the Enſigns of Power are to ap<g ref="char:EOLhyphen"/>pear, and compel the unwilling Sons of diſobedi<g ref="char:EOLhyphen"/>nece.</p>
+            <p>But this is very diſtaſtful to embitter'd ſpirits; they are loth to truckle under that Authority which God hath erected, and fondly think that their many headed monſter, a <hi>Common-wealth,</hi> would be beſt, becauſe moſt ſuitable to their humors.</p>
+            <p>For the carrying on of this, what voices have been ſcrued up to the higheſt note? what ſtrata<g ref="char:EOLhyphen"/>gems have been kept awake? How many Ambaſ<g ref="char:EOLhyphen"/>ſadors from Hell have taken their journey into this World, and compaſſed the Earth to and fro? What horrid lyes have filled the Air with a peſtilential breath? How many doſes of perjury ſwallowed
+<pb n="10" facs="tcp:60083:8"/>
+without nauſeating a conſcientious Stomach? how many volumes of Paper wrackt into a promiſe of promoting Rebellion? How many draughts of poyſon gluk'd in beyond the retrivement of an an<g ref="char:EOLhyphen"/>tidote? How many fireballs hurl'd, never to be ex<g ref="char:EOLhyphen"/>tinguiſh'd I ſuppoſe but by the blood of the engi<g ref="char:EOLhyphen"/>neer? Thus it hath pleaſed the Devil to dictate: thus it hath pleas'd his own Children to hearken. Our Saviours Queſtion concerning the baptiſm of St. <hi>John</hi> may here be well propos'd: Is the Kings Authority from Heaven or by man? Doth God or the ſhout of the Rabble make a King? Doth he act by the appointment of God, or the ſuffrages of the ſcum of the people? That the Civil Autho<g ref="char:EOLhyphen"/>thority is derived from the People, hath been long ſince exploded by all good men; and lately as a brat of Hell condemned to flames by the judge<g ref="char:EOLhyphen"/>ment of an Univerſity.</p>
+            <p>If the former be true, as is the Opinion of one <note place="margin">Oxon.</note> that I am ſure is no friend to the Church of <hi>England,</hi> in theſe words: <hi>The Power of the Magiſtrate doth</hi> 
+               <note place="margin">
+                  <hi>Mar. Reh. Tranſp.</hi> 2 P.</note> 
+               <hi>moſt certainly iſſue from the Divine Authority, the obedience to that Power is by Divine Command.</hi>
+            </p>
+            <p>And in another place.</p>
+            <p>
+               <hi>The diſpute concerning the Magiſtrate's Power ought to be ſuperfluous, for that is certainly founded upon his Commiſſion from God, and for the moſt part ſufficiently fortified with all human advantages.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:60083:8"/>
+If this be true; why do not men actively obey? eſpecially where Religion is not invaded? proved by more learned pens then mine. Pretences of paſſive obedience are ſinful where active may be paid <hi>Salva conſcientia.</hi> This is the Judgement of one who was a great Prelate of our Church. <note place="margin">Bp. <hi>San<g ref="char:EOLhyphen"/>derſon.</hi>
+               </note>
+            </p>
+            <p>But yet inſtead of this they cant and ſwagger, they conſpire and bluſter, they take counſel againſt the Lord and againſt his anointed, reſolved to break their bands in ſunder and to caſt away their cords from them.</p>
+            <p>Bands as neceſſary as the Ligatures of nature ſhall be counted uſeleſs, and cords, tho' of a man, very unpleaſant. Inſtead of this they Chequer the Law with the blackeſt odiums. The Law, the true garriſons of the Kingdom, they would de<g ref="char:EOLhyphen"/>moliſh, by rendring its Execution unjuſtifiable and Heatheniſh, and all that ſhall be concerned for its intereſt enemyes to the people of the Lord.</p>
+            <p>By this means the <hi>Chuff Phanatick</hi> wreſts him<g ref="char:EOLhyphen"/>ſelf into the affections of unintelligent unthinking Fops. And heightens <hi>anti-Monarchical Principles:</hi> but if this fails, then, as the King obſerves, in his Declaration, they reſolved to betake themſelves to Arms, to overturn the Government they could not undermine.</p>
+            <p>Thirdly, their Clemency and this raiſeth<g ref="char:punc">▪</g> Con<g ref="char:EOLhyphen"/>tempt.</p>
+            <p>
+               <pb n="12" facs="tcp:60083:9"/>
+That which ſhould not only ſecure them, but make them objects of the moſt endeared affecti<g ref="char:EOLhyphen"/>ons, is ſeconded with ſcorn, and that which pro<g ref="char:EOLhyphen"/>ceeds from pure love and tenderneſs interpreted to be the effect of fear, and cowardiſe. This is founded upon the diſingenuity of mens tempers, not any defect in the Government, the Cordial is ſtill excellent in its own nature, but the foulneſs of the Stomach that receiveth it renders it diſtaſtful and nauſeous.</p>
+            <p>I will indeed agree with the Philoſopher in this, that <hi>Nullum Clementia ex omnibus magis quam Re<g ref="char:EOLhyphen"/>gem</hi> 
+               <note place="margin">Sen de Clem.</note> 
+               <hi>aut Principem decet, (i. e.)</hi> Clemency be<g ref="char:EOLhyphen"/>comes none more than a King or Prince; as much as liberality doth a rich man. This is a very great Jewel in his Crown, and while that is ſupported by vertue of his goodneſs, it ſhines illuſtriouſly: but when men ſhall ſtrike at a countenance be<g ref="char:EOLhyphen"/>cauſe pleaſant, and trample a Prince for his con<g ref="char:EOLhyphen"/>deſcenſion. I am of the mind of the ſame Author, that <hi>Omnibus ignoſcere crudelitas. (i. e.)</hi> 'Tis Cru<g ref="char:EOLhyphen"/>elty to Pardon all.</p>
+            <p>There is a time indeed, and in ſome caſes, when Clemency may be neceſſary (ſo far I will be an Advocate for wicked men) when there are hopes that its ends may be attained, and ſtubborn men won to fair Conformity, when as <hi>Seneca</hi> obſerves, <hi>verecundiam peccandi facit ipſa clementia regentis:</hi>
+               <pb n="13" facs="tcp:60083:9"/>
+but when men upon thoſe gentle methods grow rampant and incorrigible, and drive on Rebellion with the rankeſt forces of impudence, tis time to aſſume a ſevere countenance, and give the Law the ſwinge of its power. And this is aſſented to by an Enemy both to Kingly and Epiſcopal Go<g ref="char:EOLhyphen"/>vernment. If this gracious temper (ſaith he) be <note place="margin">Mar. Re<g ref="char:EOLhyphen"/>hear. Tran.</note> inconſiſtent with the nature and ends of Govern<g ref="char:EOLhyphen"/>ment, it behoves them (meaning Princes) to beware, and by rougher methods to provide for their own and the Peoples ſecurity.</p>
+            <p>Gentleneſs hath then the ſame effect with Poy<g ref="char:EOLhyphen"/>ſon: it doth ſwell men up to ſuch a Prodigious bulk, that they are not able to contain themſelves from bitter calumnies againſt the ſweeteſt of all Governments.</p>
+            <p>You ſee how this works with loyal breaſts<hi>:</hi> thoſe that were good are made better by it: thoſe that would otherwiſe never have flinched or re<g ref="char:EOLhyphen"/>ceded from their duties, are however heightned by a Princes favour, and apprehend a neceſſity of becoming more publick, and exemplary in their Loyalty.</p>
+            <p>But the Schiſmatick ſoon forgets all kindneſſes, Acts of Oblivion, or Toleration will not oblige him; if the King will not grant him every thing, 'twere as good he had denyed him every thing, and this was the Ruine of the late King. He
+<pb n="14" facs="tcp:60083:10"/>
+had granted too much, and becauſe he would not be as endleſs in conceſſions, as they in their audaci<g ref="char:EOLhyphen"/>ous demands, they murther'd him.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>bi diſcrimen inter malos &amp; bonos ſublatum eſt, confuſio ſequitur, &amp; vitiorum eruptio.</hi> (i. e.) Where there is no diſtinction made between good and bad, confuſion follows, and the breaking out of all vices.</p>
+            <p>This in probability was the effect of <hi>Auguſtuss</hi> mildneſs: being inclinable to pardon <hi>Sina,</hi> who deſign'd to ſlay him while he was Sacrificing; after ſome deliberations within himſelf, he is brought in thus obſerving, <hi>Ego ſum nobilibus adoleſcentulis expoſitum caput, in quod mucrones acuant</hi> (i. e.) I am the man whom my young Nobles deſign'd to murder. Such is the baſeneſs of Rebellious ſpirits which ought by the Kings mercy as by a load ſtone to be drawn cloſer to his embraces, that they fly at his face, and upon the leaſt ſuggeſtion of a Tray<g ref="char:EOLhyphen"/>tor, they will rather hazard a halter in oppoſition to the Government, then ſtir one inch for the pre<g ref="char:EOLhyphen"/>ſervation of their Sovereign.</p>
+            <p>Now the means which diſaffected miſecrants are us'd to work by, are reduceable to two heads.</p>
+            <p>Firſt, by infuſing into eaſy men diſlike againſt the preſent Government, and ſo not only alienating the affections of men from it, but putting them into an hoſtile poſture againſt it.</p>
+            <p>
+               <pb n="15" facs="tcp:60083:10"/>
+To compaſs a civil War or what is worſe a ſud<g ref="char:EOLhyphen"/>den and general maſſacre, <hi>England</hi> may defy all Kingdomes in the world to come near it: To propagate thoſe black platforms, how fruitful hath it been in lyes, ſubornations, and infidel Juries; nothing hath been ſtuck at by our thorow paced Religioniſts, whoſe conſciences have been made ſtalking horſes unto villany, and their Souls Pan<g ref="char:EOLhyphen"/>ders of rapine and murder.</p>
+            <p>All Sectaryes, however different from each other, joyn unanimouſly in vilifying the higher powers, and making them appear in what colours they are pleas'd to beſtow upon them.</p>
+            <p>And thoſe are always the courſeſt: the King ſhall be repreſented not Great, but Monſtrous; an unweildly, unconcerned, tame Governour; but when they feel the fangs of the Law, their note is changed; and then Arbitrary Power, and Perſecu<g ref="char:EOLhyphen"/>tion are buzzed into the Ears of the people. And when the ſtream of paſſion flows, they do not ſtop there<hi>:</hi> they load his Royal and undoubtedly Lawfull Succeſſors with Popery, to make a Bill of Excluſion ſlip down the more palatably, as if Inheritance were founded in Religion: they cri<g ref="char:EOLhyphen"/>minate his Privy Council with weakneſs and per<g ref="char:EOLhyphen"/>fidiouſneſs: they arraign his Judges, and con<g ref="char:EOLhyphen"/>demn all higher or lower Stations that are un<g ref="char:EOLhyphen"/>daunted in their Loyalty; but chiefly thoſe that
+<pb n="16" facs="tcp:60083:11"/>
+are entruſted with the choiceſt ſhare of Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Againſt theſe they ſwell and blow up their noſt<g ref="char:EOLhyphen"/>rils; they faſten upon them either a hat from <hi>Rome,</hi> or a purſe from <hi>France;</hi> And inſinuate to thoſe that live only on preſent ſenſe, that their All lyes at ſtake, and that they are dealt with as Slaves uſe to be ſold into bondage.</p>
+            <p>Thus when the <hi>Grecian Shaftshury</hi> contriv'd to take off a Noble Peer, one much honeſter (I think) then himſelf; he firſt made the people be<g ref="char:EOLhyphen"/>lieve that he was bribed to betray the Army to the <hi>Trojans.</hi>
+            </p>
+            <p>When by theſe cob-web textures they have per<g ref="char:EOLhyphen"/>ſuaded the credulous to believe, that which they never did themſelves, it may be very rational for thoſe of an ordinary capacity, to ask what may be done in this ſo ſad and deſperate a calamity: and they will ſoon be anſwered, if they have any kind<g ref="char:EOLhyphen"/>neſs for themſelves and Families, which is natural; if they have any regard to rhe ſettlement of a bet<g ref="char:EOLhyphen"/>ter Government which is morall; if they have any love for Godly miniſtry, which is Divine; if they will lend their helping hands, <hi>(i. e.)</hi> Arm them<g ref="char:EOLhyphen"/>ſelves for Rebellion, they doubt not of a thorow Reformation.</p>
+            <p>Secondly, Reformation, to ſet up ſuch a puppet of Reformation as this, it was clearly proved that
+<pb n="17" facs="tcp:60083:11"/>
+one of the Regieides which was hanged, ſince the Kings reſtauration, was ſent from New <hi>England</hi> hither for the promoting of that bloody Civil War, farther explain'd thus, That he was ſent hence to <hi>Ireland,</hi> for the driving on the deſign to ex<g ref="char:EOLhyphen"/>tirpate Monarchy. The ſtrongeſt poyſon cannot want a leaf of Gold for a Cover, nor the grandeſt wickedneſs a florid pretence of piety.</p>
+            <p>To ſeek God in Prayer, is a fine cue for the ſtrikeing off the Head of his Annointed. <hi>Joab</hi>'s Kiſs and his Sword were at no great diſtance from one another.</p>
+            <p>You ſee (ſaith the Rebel) how men ſweat and groan under the heavy weight of ſtate Preſſures: for abſenting themſelves from their Pariſh Churches: there were indeed ſtrong endeavours uſed to free us from our yoke, and deliver us from the cramping ſeverity of a penal Act made by Queen <hi>Elizabeth;</hi> if we come to Church we are peſter'd with Super<g ref="char:EOLhyphen"/>ſtitions and Ceremonyes. And there were ways thought of to ſuppreſs them, but obviated by the Patriots of Epiſcopacy: if the reſtleſs labours of good, that is, diſaffected men, had taken effect, <hi>quam tu urbem?</hi> &amp;c. What a glorious Metropolis ſhould we have had? what proſperous Kingdoms? what an admirable face of Government in the Church? Our Common-wealth might have been the envy of the treacherous <hi>Batavians,</hi> and our Church a
+<pb n="18" facs="tcp:60083:12"/>
+pattern to the plantation at <hi>Geneva,</hi> or the rigid'ſt diſcipline of New <hi>England.</hi>
+            </p>
+            <p>Could we have but one that deſires it for King, we have his Royal word for it, that he would do every one Juſtice.</p>
+            <p>No complaining in our ſtreets: thoſe that had too juſt occaſion, would have had their mouths ſealed up to a perpetual ſilence. No warping men of religious tempers, ſuch a Religion is naturally ſo<hi>:</hi> no corruption of Courts with bribery, nay perhaps not ſuch a thing to be heard of amongſt us.</p>
+            <p>We would govern you quietly by the Sword, ſecure your rights and poſſeſſions from the invaſion of others; give your Conſciences liberty of man<g ref="char:EOLhyphen"/>aging your ſouls, at your own rate; and give your painfull teachers the fatteſt encouragements for their undertakings.</p>
+            <p>And by theſe means they render the Preſent Government hatefull and inſupportable, and put ignorant Dolts on madding for (they know not what kind of) alteration. But however ſome may ripen themſelves for the <hi>fatal Tree,</hi> by acting contrary to their knowledge, and others of great ignorance, and facile belief, been perſuaded into the Lawful<g ref="char:EOLhyphen"/>neſs of Inſurrection, yet the obligation of Loyalty never ceaſeth.</p>
+            <p>2 <hi>Prop.</hi> Tis the duty of all ſubjects to ſtand by their Prince in caſe of danger. Many are willing
+<pb n="19" facs="tcp:60083:12"/>
+in the time of his peace and proſperity: but flinch at the approaches of peril: But ſtanding the burnt, as 'tis the mark, ſo tis the duty of every true ſubject.</p>
+            <p>Firſt, upon a principle of Juſtice. It hath been thought fit not only in ours, but other Kingdomes, that Life-guards ſhould be inſtituted for the pre<g ref="char:EOLhyphen"/>ſervation of their perſons: altho in ours they were firſt voted uſeleſs; indeed they are for their bloody purpoſes: and afterward were to be ſmartly at<g ref="char:EOLhyphen"/>tacqued, witneſs the confeſſion of him who <hi>Ty<g ref="char:EOLhyphen"/>burn</hi> ſtop'd in his carreir. But however twas but juſt in thoſe who would have ſtript him, to have offer'd their own perſons as a Guard for his ſecurity.</p>
+            <p>Under whoſe Umbrage do they themſelves ſhelter themſelves? By whoſe careful inſpection do they ſit every man under his own Vine, and his own Fig-tree? Of whom may it be ſaid, un<g ref="char:EOLhyphen"/>der his ſhadow we live? Is it not of the King?</p>
+            <p>Is it meet then, that we ſhould receive the full, and comfortable influence of his Protection, with<g ref="char:EOLhyphen"/>out paying the leaſt Tribute of our Aſſiſtance? Is it juſt that he ſhould be bound with an Oath at his Coronation (frequently hinted by thoſe that do not underſtand the words) and is it not as juſt, that Subjects ſhould be obliged by an <hi>Oath of Fidelity?</hi> Bare words are but a ſlender ſecurity. What hath the King to truſt to in caſe of <hi>Purbeck Invaſions?</hi> What hath he indeed to truſt to in caſe of <hi>Do<g ref="char:EOLhyphen"/>meſtick</hi>
+               <pb n="20" facs="tcp:60083:13"/>
+               <hi>Aſſaults, and violence to his Perſon,</hi> when even thoſe that gave their words for his Defence, ſhall be as forward in their Actions for his Miſohief and Ruine?</p>
+            <p>Can the dull Earth reflect thoſe beams upon the Sun, which ſhe hath received from his benign influence? Can Rivers return their grateful Streams to the Sea, whence they are derived? Can ſmall obedient Creatures draw their ſtings as ſo many ſwords to diſpatch thoſe <hi>Droans,</hi> that ſhall intrude on the Territories of their Monarch?</p>
+            <p>A foul ſhame to all Profeſſors of diſloyalty, to be out-done in points of juſtice by theſe ſmall Inſects, and the moſt ſenſeleſs parts of the Creation.</p>
+            <p>2. Upon a Principle of honour. And here the moral Queſtion; whether it be in the perſon ho<g ref="char:EOLhyphen"/>nouring, or the perſon honoured, may be anſw<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>'d affirmatively in both.</p>
+            <p>'Tis ſo in the Subject that induſtriouſly hazards all to put his Prince out of the reach of danger.</p>
+            <p>Were the truth of this ſcrupled, I might pro<g ref="char:EOLhyphen"/>duce many inſtances of thoſe whoſe Memory lives for ever, for ſtanding between Death and their King.</p>
+            <p>And we our ſelves alaſs! are too ſenſible what a Blow <hi>England</hi> receiv'd at the diſmal Stroak given to our late Sovereign, what a black brand of Infamy was affixed on that ſcore, how odious
+<pb n="21" facs="tcp:60083:13"/>
+an <hi>Engliſh</hi> Man ſounded in other Countreys, ho<g ref="char:EOLhyphen"/>nour'd with no greater Title, then that of a <hi>Devil.</hi>
+            </p>
+            <p>In ſtanding by our King, we ſtand by our ſelves, and in honouring Him, we are the moſt forward conſulters of our own Glory. Our Schiſmaticks vilifying of him, have cauſed him to <note place="margin">
+                  <hi>Fez</hi> &amp; <hi>Ma<g ref="char:punc">▪</g>
+                  </hi>
+               </note> be leſſened abroad, and this was intimated (as I am informed) by an Heathen Ambaſſador.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">Iſoc.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. (i. e.) <hi>The Power of the</hi> Perſians <hi>we know grew to ſuch an height, not by the wiſdom of the men, but by the great obſervance of their Kings.</hi>
+            </p>
+            <p>Nothing can add more to his Renown abroad, then the ſtrong experiments of our united duties at home; by which we at once render him truly Glorious, our ſelves famouſly formidable, and our Poſterity ſetled upon the Foundation of a <hi>Perpe<g ref="char:EOLhyphen"/>tual Monarchy.</hi> 
+               <note place="margin">Idem</note>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. (i. e.) <hi>It is manifeſt that thoſe that obey their Kings, con<g ref="char:EOLhyphen"/>ſtantly have the greateſt Strength.</hi>
+            </p>
+            <p>Whoſoever then ſhould endeavour to Eclipſe the Splendor of the Crown, would find them<g ref="char:EOLhyphen"/>ſelves under a greater Cloud, and (as it is reported of thoſe that fight with Spirits) would find every blow that they offer to Majeſty, to be irreſiſtibly thrown on their own heads.</p>
+            <p>
+               <pb n="22" facs="tcp:60083:14"/>
+3. Upon a Principle of Conſcience. Every part of the Moral Law binds the Conſcience; ſtanding by the King in times of danger, muſt be a part of that, or elſe the Honour enjoyned in the Fifth Commandement, men make no better than a piece of painted Pageantry. And this the Rebel doth not value: he will eaſily adventure the vio<g ref="char:EOLhyphen"/>lation of the Divine Law, if he can eſcape the ſcourge of the humane.</p>
+            <p>What Security then hath the Prince from facti<g ref="char:EOLhyphen"/>ous ſpirits? The greateſt is an Oath, becauſe this doth immediately bind the Conſcience.</p>
+            <p>If now Conſcience be the knowledge of a thing, to be good or bad in order to a regular Practice: (I can collect no more from Dr. <hi>Hammand</hi>'s ſmall Treatiſe of it) what kind of Conſcience muſt thoſe men have, that have ſworn not only not to <hi>Act,</hi> but not to <hi>Conceal any Treaſonable Deſign againſt the King,</hi> have yet been prodigal of their Labors in the moſt direful expeditions, Conſpiring the <hi>Mur<g ref="char:EOLhyphen"/>ther of their King,</hi> and a general <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. others timely hearing and concealing the <hi>Debates,</hi> as if the Ear was not as guilty as the Hand, they are alike in the Oath, they render <hi>Traytors</hi> as liable to Tem<g ref="char:EOLhyphen"/>poral, as they are Ambitious of Eternal Puniſh<g ref="char:EOLhyphen"/>ment. Oh injur'd name of <hi>Proteſtant Religion;</hi> the greateſt Profeſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs of which, make a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rock of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:60083:14"/>
+are mov'd by humor, thinking themſelves bound to purſue the bent of their inclinations, or phancy; pleaſing themſelves with that which in irrational Creatures ſupplies the place of reaſon, or paſſion: being tranſported with groundleſs jealouſies, draw<g ref="char:EOLhyphen"/>ing falſe Concluſions, from falſe Premiſes, <hi>viz.</hi> The Great King would ſell us and bring in Popery; therefore 'tis lawful to Murther him: or the in<g ref="char:EOLhyphen"/>ſtigation of <hi>Satan</hi> putting them on to reſolute courſes of Lying, Swearing, Reviling, Damning, or ſhedding of innocent bloud: they couch all under the Name of Conſcience, which (if regular) muſt have the moſt lively tendency to the pre<g ref="char:EOLhyphen"/>ſervation of Government.</p>
+            <p>4. Upon the Principle of <hi>Profit.</hi> This I ſhall not long inſiſt on, becauſe too ſordid for a prin<g ref="char:EOLhyphen"/>ciple of Humanity, much more of Chriſtianity.</p>
+            <p>This hath made ſome ſo cold, when the King hath been beſieg'd with dangers, that they would not ſtir ſo much as their Tongues in his Vindica<g ref="char:EOLhyphen"/>tion: willing with one ſort of Vermin to fall on their Legs; if the Government ſtand, they know them<g ref="char:EOLhyphen"/>ſelves ſecure: if not they hope they ſhall be ſo for the ſake of diſloyalty.</p>
+            <p>This hath made others hot and fiery for the un<g ref="char:EOLhyphen"/>hinging of the Government; men that think they have not honour enough for their merits, and ſo cry down the King as unequal in his
+<pb n="24" facs="tcp:60083:15"/>
+diſtributions: or ſome that have been turned out of Offices compendiouſly ſweet, becauſe they knew not how to behave themſelves in them: or other Royſters that have laviſhed the ſhare they had in the laſt Crown, and Church Lands: or a fourth ſort Nonſenſical Ninnyes, that have been at great Expence in ſtanding by their un<g ref="char:EOLhyphen"/>happy Poſt, and have little other livelihood than the promiſes of thoſe that have a juſt Title to nothing.</p>
+            <p>But in couragiouſly appearing for our Lord under God, there is real profit, and ſuch as all good men like.</p>
+            <p>A profit mixt with a good conſcience<hi>:</hi> a pro<g ref="char:EOLhyphen"/>fit unacquainted with new <hi>England</hi> over witting, a profit without balderdaſhing Ware and Religion together; a profit without a ſigh at the end of a lye to bind it.</p>
+            <p>When the King is free from danger ſuch a pro<g ref="char:EOLhyphen"/>fit do good induſtrious men uſually find: pre<g ref="char:EOLhyphen"/>ſerv'd on the Sea from unwelcome <hi>Pyrates,</hi> this in particular concerneth this Honorable So<g ref="char:EOLhyphen"/>ciety: in the Ports of lading, from abuſes and out<g ref="char:EOLhyphen"/>rages, ſecured in the times of War from fears, and dreadfull apprehenſions, by his Majeſties ſhips, thoſe ſtout and impregnable bulwarks. On the Land from rude and uncivil incurſions, by de<g ref="char:EOLhyphen"/>pending on the Wiſdom and Power of our So<g ref="char:EOLhyphen"/>vereign.</p>
+            <div type="appendix">
+               <pb n="25" facs="tcp:60083:15"/>
+               <head>App.</head>
+               <p>Who then would not enter the Liſt with <hi>Ittai?</hi> Who would not be with the King in Life to reſcue him from thoſe Sons of Hell that lye in Ambuſh for him?</p>
+               <p>But if in Death (a Natural one God long a<g ref="char:EOLhyphen"/>vert, a Violent one Ever) who would repine to anſwer the ſame ſummons with Him? But who would not rather chooſe (if it muſt be ſo) to be thruſt out with him, then to lead a Slaviſh Life, inferiour to the Mercies of Death?</p>
+               <p>Let us leave the diſpoſal and event of things to Him that turns the Dyal of the World at his own pleaſure. But withall wiſh that the obſer<g ref="char:EOLhyphen"/>vation of the <hi>Roman</hi> may be true, <hi>(viz.) That</hi> 
+                  <note place="margin">Cor. Tac.</note> 
+                  <hi>Kings are never firmer in their Throne, then after a Rebellion.</hi>
+               </p>
+               <p>Let us pay all due reverence to that dignity which Heaven hath faſtned on the Crown: let us return all ſubmiſſion and obedience to that Authority which God hath let down from the throne of Heaven to the King's; let us embrace his clemency that had rather rule with a Scepter of Gold, then daſh in pieces with a rod of Iron.</p>
+               <p>Let us abominate the principles and practiſes of all thoſe that are paſt amendment, as is plain by
+<pb n="26" facs="tcp:60083:16"/>
+this unparallel'd Conſpiracy: a parcel of (I want words) the ſpawn of Fire and Brimſtone, not to be prevailed on by dignity, or compelled by Authority, nor melted by clemency: ſpeaking evil of the one, reſiſting the other, and ſhame<g ref="char:EOLhyphen"/>fully undervaluing the third. Let us inform the people of thoſe deviliſh and ſinfull means they uſe to bring the Palace to a Dunghil; thoſe ſwarms of lyes which have fled abroad, and they ſuck in as truths unawares; and what a bleſſed refor<g ref="char:EOLhyphen"/>mation is like to enſue. Such a one as would turn Churches into ſtables, and the revenues for a maintainance for themſelves, and better natur'd Creatures, their Horſes.</p>
+               <p>But if Juſtice hath not quite forſaken the Earth if principles of Honour ſway: if conſcience hath not loſt its forcible power.</p>
+               <p>If reſpect of private Intereſt (which of right ought to be leaſt, but with ſome is moſt powerfull) will attract us; every thing will add ſpeedy wings to our Loyalty, teach us to cleave cloſely to our King in his greateſt extremities; expreſſing our ſelves to him in the words of <hi>Ruth. Where thou dyeſt</hi> 
+                  <note place="margin">
+                     <hi>Ruth</hi> i. 17.</note> 
+                  <hi>will I dye, nought but Death ſhall part thee and me.</hi> And when the Guards of Rebellious Angells, would make him a man of ſorrow, to cry out with no leſs fervency then when he was anoint<g ref="char:EOLhyphen"/>ed with oyl of gladneſs, God Save the King. Amen.</p>
+               <pb facs="tcp:60083:16"/>
+               <pb n="26" facs="tcp:60083:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:60083:17"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
